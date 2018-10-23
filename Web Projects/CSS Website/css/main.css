@@ -1,0 +1,14 @@
+/***************************************************
+ *                                                 *
+ *   Author : Afochar Syabnirusmanto               *
+ *   Date : 23.10.2018                             *
+ *                                                 *
+ ***************************************************/
+
+article p:first-of-type{
+    font-weight: bold;
+}
+
+article p:last-of-type{
+    color: crimson;
+}
